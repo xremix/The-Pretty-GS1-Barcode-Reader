@@ -1,0 +1,12 @@
+.container{
+  max-width: 1000px;
+}
+
+.btn-primary,.btn-primary:active,.btn-primary:link,.btn-primary:hover{
+  background-color: #329D9C !important;
+  border: 0px;
+  &.btn-link{
+    background-color: transparent !important ;
+    color: #329D9C !important;
+  }
+}
